@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/462001082.svg)](https://zenodo.org/badge/latestdoi/462001082)
+
 # Trunkated CLDF dataset derived from a preprint of 'Új Etimológiai Szótár' [New Etymological Dictionary] edited by Gerstner Károly
 
 ## How to cite
