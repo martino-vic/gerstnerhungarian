@@ -14,6 +14,8 @@ This dataset is licensed under a MIT license
 
 Available online at http://uesz.nytud.hu/
 
+Full version in private repository, available upon request.
+
 ## Statistics
 
 
