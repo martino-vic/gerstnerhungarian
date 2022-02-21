@@ -1,12 +1,12 @@
 [![DOI](https://zenodo.org/badge/462001082.svg)](https://zenodo.org/badge/latestdoi/462001082)
 
-# Trunkated CLDF dataset derived from a preprint of 'Új Etimológiai Szótár' [New Etymological Dictionary] edited by Gerstner Károly
+# Trunkated CLDF dataset derived from a preprint of 'Új magyar etimológiai szótár' [New Hungarian Etymological Dictionary] by Gerstner Károly
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Gerstner 2016
+  > Gerstner, Károly (ed.) (2016). Új magyar etimológiai szótár. Hungarian Academy of Sciences, Budapest. http://uesz.nytud.hu/.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
