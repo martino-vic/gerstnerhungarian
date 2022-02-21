@@ -1,0 +1,4 @@
+cldfbench
+
+[test]
+pytest-cldf

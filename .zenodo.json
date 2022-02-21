@@ -1,0 +1,20 @@
+{
+    "title": "Trunkated CLDF dataset derived from a preprint of '\u00daj Etimol\u00f3giai Sz\u00f3t\u00e1r' [New Etymological Dictionary] edited by Gerstner K\u00e1roly",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Gerstner 2016</p>\n</blockquote>",
+    "license": {
+        "id": "MIT"
+    }
+}
