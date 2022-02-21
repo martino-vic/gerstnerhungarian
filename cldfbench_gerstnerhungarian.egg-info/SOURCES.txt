@@ -1,9 +1,0 @@
-setup.cfg
-setup.py
-cldfbench_gerstnerhungarian.egg-info/PKG-INFO
-cldfbench_gerstnerhungarian.egg-info/SOURCES.txt
-cldfbench_gerstnerhungarian.egg-info/dependency_links.txt
-cldfbench_gerstnerhungarian.egg-info/entry_points.txt
-cldfbench_gerstnerhungarian.egg-info/not-zip-safe
-cldfbench_gerstnerhungarian.egg-info/requires.txt
-cldfbench_gerstnerhungarian.egg-info/top_level.txt

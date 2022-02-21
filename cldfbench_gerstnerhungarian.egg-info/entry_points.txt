@@ -1,3 +1,0 @@
-[cldfbench.dataset]
-gerstnerhungarian = cldfbench_gerstnerhungarian:Dataset
-
