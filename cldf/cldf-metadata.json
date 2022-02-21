@@ -9,11 +9,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Trunkated CLDF dataset derived from a preprint of '\u00daj Etimol\u00f3giai Sz\u00f3t\u00e1r' [New Etymological Dictionary] edited by Gerstner K\u00e1roly",
+    "dcat:accessURL": "https://github.com/martino-vic/gerstnerhungarian",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "gerstnerhungarian",
+            "rdf:about": "https://github.com/martino-vic/gerstnerhungarian",
             "rdf:type": "prov:Entity",
-            "dc:created": "d2d4ce3",
+            "dc:created": "936a51a",
             "dc:title": "Repository"
         },
         {

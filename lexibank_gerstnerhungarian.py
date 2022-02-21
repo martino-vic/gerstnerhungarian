@@ -6,7 +6,7 @@ from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
 from pylexibank import FormSpec, Concept
 
-REP = [(x, "") for x in "†-¹²³⁴’"]
+REP = [(x, "") for x in "†×∆-¹²³⁴’"]
 
 
 @attr.s
@@ -52,7 +52,7 @@ class Dataset(BaseDataset):
 
         # add forms
         for idx, row in enumerate(self.raw_dir.read_csv(
-                "Gerstner-2016-3526.tsv", delimiter="\t", dicts=True)[1:]):
+                "Gerstner-2016-3532.tsv", delimiter="\t", dicts=True)[1:]):
             row["Loan"] = True if row["Loan"] == "True" else False
             args.writer.add_forms_from_value(
                 Local_ID=idx,

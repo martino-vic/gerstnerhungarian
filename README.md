@@ -29,7 +29,7 @@ Available online at http://uesz.nytud.hu/
 - **Sources:** 1
 - **Synonymy:** 1.01
 - **Invalid lexemes:** 0
-- **Tokens:** 18,092
+- **Tokens:** 18,083
 - **Segments:** 59 (0 BIPA errors, 0 CTLS sound class errors, 59 CLTS modified)
 - **Inventory size (avg):** 59.00
 

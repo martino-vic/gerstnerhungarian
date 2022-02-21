@@ -6,7 +6,7 @@ import re
 import pandas as pd
 from pysem.glosses import to_concepticon
 
-in_path = Path.cwd().parent / "Gerstner-2016-9926.tsv"
+in_path = Path.cwd().parent / "Gerstner-2016-3532.tsv"
 out_path = Path.cwd().parent.parent / "etc" / "concepts.tsv"
 
 
