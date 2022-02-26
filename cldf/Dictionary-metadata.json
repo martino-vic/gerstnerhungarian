@@ -17,13 +17,13 @@
     "dc:license": "http://www.opensource.org/licenses/MIT",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Trunkated CLDF dataset derived from a preprint of '\u00daj magyar etimol\u00f3giai sz\u00f3t\u00e1r' [New Hungarian Etymological Dictionary] by Gerstner K\u00e1roly",
+    "dc:title": "CLDF dataset derived from a preprint of '\u00daj magyar etimol\u00f3giai sz\u00f3t\u00e1r' [New Hungarian Etymological Dictionary] by Gerstner K\u00e1roly",
     "dcat:accessURL": "https://github.com/martino-vic/gerstnerhungarian",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/martino-vic/gerstnerhungarian",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.3-3-g39293c1",
+            "dc:created": "v1.3-4-g6c2abe6",
             "dc:title": "Repository"
         },
         {

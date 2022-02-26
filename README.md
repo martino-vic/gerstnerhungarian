@@ -1,4 +1,4 @@
-# Trunkated CLDF dataset derived from a preprint of 'Új magyar etimológiai szótár' [New Hungarian Etymological Dictionary] by Gerstner Károly
+# CLDF dataset derived from a preprint of 'Új magyar etimológiai szótár' [New Hungarian Etymological Dictionary] by Gerstner Károly
 
 ## How to cite
 
