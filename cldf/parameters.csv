@@ -9,7 +9,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 8-wange,Wange,1730,CHEEK
 9-gesicht,Gesicht,1560,FACE
 10-stirn,Stirn,123,FOREHEAD
-11-haar,Haar,1040,HAIR
 12-schnurrbart,Schnurrbart,1165,MOUSTACHE
 13-bart,Bart,678,BEARD
 14-kinn,Kinn,1510,CHIN
@@ -86,7 +85,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 92-wiese,Wiese,2819,GRASSLAND
 93-wald,Wald,420,FOREST
 94-hugel,Hügel,614,HILL
-95-anhohe,Anhöhe,2936,ELEVATION
 96-berg,Berg,639,MOUNTAIN
 97-gipfel,Gipfel,1614,SUMMIT
 98-hohle,Höhle,1155,CAVE
@@ -191,7 +189,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 210-ehemann,Ehemann,1200,HUSBAND
 211-ehefrau,Ehefrau,1199,WIFE
 212-freude,Freude,2524,JOY
-213-gelachter,Gelächter,2958,LAUGHTER
 214-gluck,Glück,2941,HAPPINESS
 215-kummer,Kummer,1668,GRIEF
 217-lust,Lust,2960,LONGING (WISH)
@@ -220,7 +217,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 242-ruhe,Ruhe,3458,SILENCE
 244-volk,Volk,789,PEOPLE
 245-arbeit,Arbeit,984,WORK (LABOUR)
-246-gast,Gast,1782,GUEST
 247-geschenk,Geschenk,2982,GIFT
 248-spiel,Spiel,2467,GAME
 249-gesellschaft,Gesellschaft,2983,COMPANIONSHIP
@@ -296,7 +292,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 330-netz,Netz,2963,NET
 331-haken,Haken,1071,HOOK
 332-griff,Griff,1254,HANDLE
-333-schloss,Schloss,1596,LOCK
 334-bild,Bild,3303,PICTURE (PAINTING)
 335-figur,Figur,1945,IDOL
 336-puppe,Puppe,1659,DOLL
@@ -322,12 +317,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 359-suppe,Suppe,1547,SOUP
 360-honig,Honig,942,HONEY
 361-milch,Milch,635,MILK
-362-tee,Tee,1373,TEA
 363-leder,Leder,629,LEATHER
 364-wolle,Wolle,964,WOOL
 365-stoff,Stoff,1616,CLOTH
 367-faden,Faden,1161,THREAD
-368-knopf,Knopf,757,BUTTON
 369-knoten,Knoten,760,KNOT
 370-farbe,Farbe,647,PAINT (PIGMENTS)
 371-kleidung,Kleidung,1895,CLOTHES
@@ -351,7 +344,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 392-starke,Stärke,202,STRENGTH
 393-gesundheit,Gesundheit,1364,HEALTHY
 394-krankheit,Krankheit,1986,DISEASE
-395-schmerz,Schmerz,1783,PAIN
 396-wunde,Wunde,1109,WOUND
 397-fieber,Fieber,1534,FEVER
 398-arznei,Arznei,1372,MEDICINE
@@ -405,7 +397,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 448-schluss,Schluss,743,END (OF TIME)
 449-zeit,Zeit,892,TIME
 450-tag,Tag,1225,DAY (NOT NIGHT)
-451-morgen,Morgen,1339,MORNING
 452-mittag,Mittag,12,MIDDAY
 453-abend,Abend,1629,EVENING
 454-nacht,Nacht,1233,NIGHT
@@ -468,7 +459,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 515-schmutzig,schmutzig,1230,DIRTY
 516-roh,roh,1959,RAW
 517-reif,reif,178,RIPE
-518-lecker,lecker,1813,TASTY
 519-su,süß,717,SWEET
 520-bitter,bitter,887,BITTER
 521-sauer,sauer,1906,SOUR
@@ -480,7 +470,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 527-gelb,gelb,1424,YELLOW
 528-blau,blau,837,BLUE
 529-grun,grün,1425,GREEN
-530-grau,grau,153,GREY
 531-bunt,bunt,2997,COLORFUL
 532-billig,billig,1887,CHEAP
 533-teuer,teuer,1426,EXPENSIVE
@@ -522,8 +511,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 573-verschieden,verschieden,2504,DIFFERENT
 574-nah,nah,1942,NEAR
 575-fern,fern,1406,FAR
-576-linker,linker,244,LEFT
-577-rechter,rechter,1019,RIGHT
 578-anderer,anderer,197,OTHER
 579-erster,erster,728,FIRST
 580-zweiter,zweiter,1384,SECOND
@@ -542,7 +529,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 594-dann,dann,2921,THEN
 595-gestern,gestern,1174,YESTERDAY
 596-einst,einst,2914,ONCE (IN THE PAST)
-597-damals,damals,2922,AT THAT TIME
 598-danach,danach,2093,AFTERWARDS
 599-vorher,vorher,1882,BEFORE
 600-zuerst,zuerst,2915,AT FIRST
@@ -576,7 +562,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 630-vor,vor,1883,IN FRONT OF
 633-durch,durch,97,THROUGH
 634-neben,neben,2917,NEXT TO
-635-zwischen,zwischen,689,BETWEEN
 636-wegen,wegen,2918,BECAUSE OF
 637-dies,dies,1214,THIS
 638-das,das,78,THAT
@@ -701,12 +686,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 777-hineingehen,hineingehen,749,ENTER
 779-kommen,kommen,1446,COME
 780-ankommen,ankommen,1387,ARRIVE
-781-zuruckkommen,zurückkommen,581,COME BACK
 783-warten,warten,1590,WAIT (FOR)
 785-suchen,suchen,1468,LOOK FOR
 786-finden,finden,719,FIND
 787-versuchen,versuchen,1812,TRY
-788-vorbereiten,vorbereiten,2909,PREPARE
 789-lieben,lieben,923,LOVE
 791-lachen,lachen,1355,LAUGH
 793-weinen,weinen,1839,CRY
@@ -794,7 +777,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 900-schenken,schenken,196,DONATE
 901-versprechen,versprechen,1675,PROMISE
 904-kussen,küssen,578,KISS
-907-wecken,wecken,3174,WAKE UP (SOMEONE)
 908-zeigen,zeigen,1039,SHOW
 910-lehren,lehren,709,TEACH
 912-aufziehen,aufziehen,2134,RAISE (BRING UP)
@@ -877,7 +859,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 1002-vergessen,vergessen,1523,FORGET
 1003-messen,messen,1506,MEASURE
 1004-zahlen,zählen,1420,COUNT
-1005-rechnen,rechnen,2867,CALCULATE
 1006-lesen,lesen,724,READ
 1007-malen,malen,2001,PAINTING
 1009-schreiben,schreiben,1672,WRITE
