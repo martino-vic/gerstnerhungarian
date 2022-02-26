@@ -1,20 +1,24 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Gerstner 2016",
+    "dc:bibliographicCitation": "Gerstner, K\u00e1roly (ed.) (2016). \u00daj magyar Etimol\u00f3giai Sz\u00f3t\u00e1r. Hungarian Academy of Sciences, Budapest. http://uesz.nytud.hu/.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "Full version in private repository, available upon request.",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Dellert-2018-1016"
+    ],
     "dc:identifier": "http://uesz.nytud.hu/",
     "dc:isVersionOf": null,
     "dc:license": "http://www.opensource.org/licenses/MIT",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Trunkated CLDF dataset derived from a preprint of '\u00daj Etimol\u00f3giai Sz\u00f3t\u00e1r' [New Etymological Dictionary] edited by Gerstner K\u00e1roly",
+    "dc:title": "Trunkated CLDF dataset derived from a preprint of '\u00daj magyar etimol\u00f3giai sz\u00f3t\u00e1r' [New Hungarian Etymological Dictionary] by Gerstner K\u00e1roly",
     "dcat:accessURL": "https://github.com/martino-vic/gerstnerhungarian",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/martino-vic/gerstnerhungarian",
             "rdf:type": "prov:Entity",
-            "dc:created": "d22dd38",
+            "dc:created": "v1.3-1-gce97645",
             "dc:title": "Repository"
         },
         {
@@ -50,7 +54,7 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "streitberggothic",
+    "rdf:ID": "gerstnerhungarian",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
@@ -58,8 +62,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 3519,
+            "dc:extent": 4034,
             "tableSchema": {
                 "columns": [
                     {
@@ -128,6 +131,18 @@
                     {
                         "datatype": "string",
                         "name": "Profile"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Meaning"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Sense_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Entry_ID"
                     }
                 ],
                 "foreignKeys": [
@@ -162,7 +177,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 1,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
@@ -228,7 +243,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 3498,
+            "dc:extent": 888,
             "tableSchema": {
                 "columns": [
                     {
@@ -250,18 +265,6 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "year"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "origin"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Loan"
                     }
                 ],
                 "primaryKey": [

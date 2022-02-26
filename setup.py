@@ -1,18 +1,25 @@
 from setuptools import setup
+import json
 
+
+with open('metadata.json', encoding='utf-8') as fp:
+    metadata = json.load(fp)
 
 setup(
-    name='cldfbench_gerstnerhungarian',
-    py_modules=['cldfbench_gerstnerhungarian'],
+    name='lexibank_gerstnerhungarian',
+    description=metadata["title"],
+    license=metadata.get("license", ""),
+    url=metadata.get("url", ""),
+    py_modules=['lexibank_gerstnerhungarian'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
-        'cldfbench.dataset': [
-            'gerstnerhungarian=cldfbench_gerstnerhungarian:Dataset',
-        ]
+        'lexibank.dataset': ['gerstnerhungarian=lexibank_gerstnerhungarian:Dataset'],
+        'cldfbench.commands': [
+            'gerstnerhungarian=gerstnerhungariancommands'
+                    ]
     },
-    install_requires=[
-        'cldfbench',
+    install_requires=[["pylexibank>=3.0", "pysem"]
     ],
     extras_require={
         'test': [

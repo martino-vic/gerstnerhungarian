@@ -1,44 +1,41 @@
-[![DOI](https://zenodo.org/badge/462001082.svg)](https://zenodo.org/badge/latestdoi/462001082)
-
 # Trunkated CLDF dataset derived from a preprint of 'Új magyar etimológiai szótár' [New Hungarian Etymological Dictionary] by Gerstner Károly
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Gerstner, Károly (ed.) (2016). Új magyar etimológiai szótár. Hungarian Academy of Sciences, Budapest. http://uesz.nytud.hu/.
+  > Gerstner, Károly (ed.) (2016). Új magyar Etimológiai Szótár. Hungarian Academy of Sciences, Budapest. http://uesz.nytud.hu/.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
 
+Full version in private repository, available upon request.
+
 This dataset is licensed under a MIT license
 
 Available online at http://uesz.nytud.hu/
 
-Full version in private repository, available upon request.
 
+Conceptlists in Concepticon:
+- [Dellert-2018-1016](https://concepticon.clld.org/contributions/Dellert-2018-1016)
 ## Statistics
 
 
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+[![CLDF validation](https://github.com/martino-vic/gerstnerhungarian/workflows/CLDF-validation/badge.svg)](https://github.com/martino-vic/gerstnerhungarian/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
+![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 
-- **Varieties:** 1
-- **Concepts:** 3,498
-- **Lexemes:** 3,519
-- **Sources:** 1
-- **Synonymy:** 1.01
-- **Invalid lexemes:** 0
-- **Tokens:** 18,083
-- **Segments:** 59 (0 BIPA errors, 0 CTLS sound class errors, 59 CLTS modified)
-- **Inventory size (avg):** 59.00
+- **Varieties:** 0
+- **Concepts:** 0
+- **Lexemes:** 0
+- **Sources:** 0
+- **Synonymy:** 0.00
 
 ## CLDF Datasets
 
 The following CLDF datasets are available in [cldf](cldf):
 
 - CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [Dictionary](https://github.com/cldf/cldf/tree/master/modules/Dictionary) at [cldf/Dictionary-metadata.json](cldf/Dictionary-metadata.json)
