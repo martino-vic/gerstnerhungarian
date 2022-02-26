@@ -1,0 +1,1370 @@
+{
+    "by_language": {
+        "Hungarian": {
+            "bipa_errors": [
+                "<<\u00fa>>",
+                "<<v>>",
+                "<<m>>",
+                "<<i>>",
+                "<<s>>",
+                "<<c>>",
+                "<<\u00f6>>",
+                "<<z>>",
+                "<<\u00ed>>",
+                "<<j>>",
+                "<<\u00e9>>",
+                "<<l>>",
+                "<<\u0171>>",
+                "<<b>>",
+                "<<d>>",
+                "<<r>>",
+                "<<k>>",
+                "<<t>>",
+                "<<\u00e1>>",
+                "<<o>>",
+                "<<e>>",
+                "<<g>>",
+                "<<p>>",
+                "<<u>>",
+                "<<h>>",
+                "<<\u00fc>>",
+                "<<a>>",
+                "<<f>>",
+                "<<y>>"
+            ],
+            "general_errors": 543,
+            "replacements": {
+                "a\u02d0": [
+                    "a\u02d0"
+                ],
+                "b": [
+                    "b"
+                ],
+                "b\u02d0": [
+                    "b\u02d0"
+                ],
+                "c": [
+                    "c"
+                ],
+                "c\u02d0": [
+                    "c\u02d0"
+                ],
+                "d": [
+                    "d"
+                ],
+                "d\u02d0": [
+                    "d\u02d0"
+                ],
+                "d\u0361z": [
+                    "dz"
+                ],
+                "d\u0361\u0292": [
+                    "d\u0292"
+                ],
+                "e\u02d0": [
+                    "e\u02d0"
+                ],
+                "f": [
+                    "f"
+                ],
+                "f\u02d0": [
+                    "f\u02d0"
+                ],
+                "h": [
+                    "h"
+                ],
+                "i": [
+                    "i"
+                ],
+                "i\u02d0": [
+                    "i\u02d0"
+                ],
+                "j": [
+                    "j"
+                ],
+                "j\u02d0": [
+                    "j\u02d0"
+                ],
+                "k": [
+                    "k"
+                ],
+                "k\u02d0": [
+                    "k\u02d0"
+                ],
+                "l": [
+                    "l"
+                ],
+                "l\u02d0": [
+                    "l\u02d0"
+                ],
+                "m": [
+                    "m"
+                ],
+                "m\u02d0": [
+                    "m\u02d0"
+                ],
+                "n": [
+                    "n"
+                ],
+                "n\u02d0": [
+                    "n\u02d0"
+                ],
+                "o": [
+                    "o"
+                ],
+                "o\u02d0": [
+                    "o\u02d0"
+                ],
+                "p": [
+                    "p"
+                ],
+                "p\u02d0": [
+                    "p\u02d0"
+                ],
+                "r": [
+                    "r"
+                ],
+                "r\u02d0": [
+                    "r\u02d0"
+                ],
+                "s": [
+                    "s"
+                ],
+                "s\u02d0": [
+                    "s\u02d0"
+                ],
+                "t": [
+                    "t"
+                ],
+                "t\u02d0": [
+                    "t\u02d0"
+                ],
+                "t\u0361s": [
+                    "ts"
+                ],
+                "t\u0361s\u02d0": [
+                    "ts\u02d0"
+                ],
+                "t\u0361\u0283": [
+                    "t\u0283"
+                ],
+                "u": [
+                    "u"
+                ],
+                "u\u02d0": [
+                    "u\u02d0"
+                ],
+                "v": [
+                    "v"
+                ],
+                "y": [
+                    "y"
+                ],
+                "y\u02d0": [
+                    "y\u02d0"
+                ],
+                "z": [
+                    "z"
+                ],
+                "z\u02d0": [
+                    "z\u02d0"
+                ],
+                "\u00f8": [
+                    "\u00f8"
+                ],
+                "\u00f8\u02d0": [
+                    "\u00f8\u02d0"
+                ],
+                "\u0252": [
+                    "\u0252"
+                ],
+                "\u025b": [
+                    "\u025b"
+                ],
+                "\u025f": [
+                    "\u025f"
+                ],
+                "\u025f\u02d0": [
+                    "\u025f\u02d0"
+                ],
+                "\u0261": [
+                    "g"
+                ],
+                "\u0261\u02d0": [
+                    "g\u02d0"
+                ],
+                "\u0272": [
+                    "\u0272"
+                ],
+                "\u0272\u02d0": [
+                    "\u0272\u02d0"
+                ],
+                "\u0283": [
+                    "\u0283"
+                ],
+                "\u0283\u02d0": [
+                    "\u0283\u02d0"
+                ],
+                "\u0292": [
+                    "\u0292"
+                ]
+            },
+            "sclass_errors": [
+                "<<\u00fa>>",
+                "<<v>>",
+                "<<m>>",
+                "<<i>>",
+                "<<s>>",
+                "<<c>>",
+                "<<\u00f6>>",
+                "<<z>>",
+                "<<\u00ed>>",
+                "<<j>>",
+                "<<\u00e9>>",
+                "<<l>>",
+                "<<\u0171>>",
+                "<<b>>",
+                "<<d>>",
+                "<<r>>",
+                "<<k>>",
+                "<<t>>",
+                "<<\u00e1>>",
+                "<<o>>",
+                "<<e>>",
+                "<<g>>",
+                "<<p>>",
+                "<<u>>",
+                "<<h>>",
+                "<<\u00fc>>",
+                "<<a>>",
+                "<<f>>",
+                "<<y>>"
+            ],
+            "segments": {
+                "<<a>>": 18,
+                "<<b>>": 5,
+                "<<c>>": 3,
+                "<<d>>": 7,
+                "<<e>>": 19,
+                "<<f>>": 2,
+                "<<g>>": 25,
+                "<<h>>": 28,
+                "<<i>>": 24,
+                "<<j>>": 11,
+                "<<k>>": 37,
+                "<<l>>": 34,
+                "<<m>>": 22,
+                "<<o>>": 64,
+                "<<p>>": 15,
+                "<<r>>": 37,
+                "<<s>>": 48,
+                "<<t>>": 29,
+                "<<u>>": 8,
+                "<<v>>": 11,
+                "<<y>>": 16,
+                "<<z>>": 16,
+                "<<\u00e1>>": 1,
+                "<<\u00e9>>": 5,
+                "<<\u00ed>>": 5,
+                "<<\u00f6>>": 18,
+                "<<\u00fa>>": 11,
+                "<<\u00fc>>": 3,
+                "<<\u0171>>": 21,
+                "a\u02d0": 632,
+                "b": 391,
+                "b\u02d0": 6,
+                "c": 46,
+                "c\u02d0": 8,
+                "d": 464,
+                "d\u02d0": 2,
+                "d\u0361z": 3,
+                "d\u0361\u0292": 2,
+                "e\u02d0": 501,
+                "f": 293,
+                "f\u02d0": 1,
+                "h": 347,
+                "i": 695,
+                "i\u02d0": 150,
+                "j": 301,
+                "j\u02d0": 6,
+                "k": 1078,
+                "k\u02d0": 15,
+                "l": 1021,
+                "l\u02d0": 88,
+                "m": 509,
+                "m\u02d0": 3,
+                "n": 602,
+                "n\u02d0": 15,
+                "o": 939,
+                "o\u02d0": 230,
+                "p": 414,
+                "p\u02d0": 16,
+                "r": 1191,
+                "r\u02d0": 13,
+                "s": 513,
+                "s\u02d0": 24,
+                "t": 1105,
+                "t\u02d0": 27,
+                "t\u0361s": 144,
+                "t\u0361s\u02d0": 5,
+                "t\u0361\u0283": 240,
+                "u": 334,
+                "u\u02d0": 116,
+                "v": 390,
+                "y": 107,
+                "y\u02d0": 48,
+                "z": 260,
+                "z\u02d0": 4,
+                "\u00f8": 322,
+                "\u00f8\u02d0": 116,
+                "\u0252": 1635,
+                "\u025b": 1464,
+                "\u025f": 166,
+                "\u025f\u02d0": 1,
+                "\u0261": 565,
+                "\u0261\u02d0": 7,
+                "\u0272": 223,
+                "\u0272\u02d0": 14,
+                "\u0283": 507,
+                "\u0283\u02d0": 3,
+                "\u0292": 25
+            }
+        }
+    },
+    "stats": {
+        "bad_words": [
+            [
+                "Hungarian-107-bucht-1",
+                "Hungarian",
+                "107-bucht",
+                "kebel",
+                "<s> <<k>> </s> \u025b b \u025b l"
+            ],
+            [
+                "Hungarian-107-bucht-2",
+                "Hungarian",
+                "107-bucht",
+                "\u00f6b\u00f6l",
+                "<s> <<\u00f6>> </s> <s> <<b>> </s> \u00f8 l"
+            ],
+            [
+                "Hungarian-126-klaue-5",
+                "Hungarian",
+                "126-klaue",
+                "k\u00f6r\u00f6m",
+                "k \u00f8 r <s> <<\u00f6>> </s> <s> <<m>> </s>"
+            ],
+            [
+                "Hungarian-13-bart-4",
+                "Hungarian",
+                "13-bart",
+                "toll",
+                "t o l <s> <<l>> </s>"
+            ],
+            [
+                "Hungarian-133-herde-7",
+                "Hungarian",
+                "133-herde",
+                "sereg",
+                "<s> <<s>> </s> <s> <<e>> </s> r \u025b \u0261"
+            ],
+            [
+                "Hungarian-135-bulle-2",
+                "Hungarian",
+                "135-bulle",
+                "\u00f6k\u00f6r",
+                "<s> <<\u00f6>> </s> k \u00f8 r"
+            ],
+            [
+                "Hungarian-19-kopf-9",
+                "Hungarian",
+                "19-kopf",
+                "tet\u0151",
+                "t \u025b <s> <<t>> </s> \u00f8\u02d0"
+            ],
+            [
+                "Hungarian-196-junge-11",
+                "Hungarian",
+                "196-junge",
+                "k\u00f6ly\u00f6k",
+                "<s> <<k>> </s> \u00f8 l <s> <<y>> </s> <s> <<\u00f6>> </s> <s> <<k>> </s>"
+            ],
+            [
+                "Hungarian-23-busen-7",
+                "Hungarian",
+                "23-busen",
+                "t\u00f6ml\u0151",
+                "t \u00f8 m <s> <<l>> </s> \u00f8\u02d0"
+            ],
+            [
+                "Hungarian-23-busen-8",
+                "Hungarian",
+                "23-busen",
+                "kebel",
+                "<s> <<k>> </s> \u025b b \u025b l"
+            ],
+            [
+                "Hungarian-23-busen-9",
+                "Hungarian",
+                "23-busen",
+                "\u00f6b\u00f6l",
+                "<s> <<\u00f6>> </s> <s> <<b>> </s> \u00f8 l"
+            ],
+            [
+                "Hungarian-24-brust-2",
+                "Hungarian",
+                "24-brust",
+                "\u00f6b\u00f6l",
+                "<s> <<\u00f6>> </s> <s> <<b>> </s> \u00f8 l"
+            ],
+            [
+                "Hungarian-274-ecke-3",
+                "Hungarian",
+                "274-ecke",
+                "sarok",
+                "<s> <<s>> </s> <s> <<a>> </s> <s> <<r>> </s> o k"
+            ],
+            [
+                "Hungarian-284-menge-17",
+                "Hungarian",
+                "284-menge",
+                "s\u0171r\u0171",
+                "<s> <<s>> </s> <s> <<\u0171>> </s> <s> <<r>> </s> <s> <<\u0171>> </s>"
+            ],
+            [
+                "Hungarian-284-menge-6",
+                "Hungarian",
+                "284-menge",
+                "kazal",
+                "<s> <<k>> </s> \u0252 z \u0252 l"
+            ],
+            [
+                "Hungarian-284-menge-8",
+                "Hungarian",
+                "284-menge",
+                "kazal",
+                "<s> <<k>> </s> \u0252 z \u0252 l"
+            ],
+            [
+                "Hungarian-285-haufen-18",
+                "Hungarian",
+                "285-haufen",
+                "kazal",
+                "<s> <<k>> </s> \u0252 z \u0252 l"
+            ],
+            [
+                "Hungarian-285-haufen-20",
+                "Hungarian",
+                "285-haufen",
+                "kazal",
+                "<s> <<k>> </s> \u0252 z \u0252 l"
+            ],
+            [
+                "Hungarian-285-haufen-28",
+                "Hungarian",
+                "285-haufen",
+                "sereg",
+                "<s> <<s>> </s> <s> <<e>> </s> r \u025b \u0261"
+            ],
+            [
+                "Hungarian-323-besen-1",
+                "Hungarian",
+                "323-besen",
+                "seper",
+                "<s> <<s>> </s> \u025b p \u025b r"
+            ],
+            [
+                "Hungarian-326-gabel-1",
+                "Hungarian",
+                "326-gabel",
+                "k\u00f6r\u00f6m",
+                "k \u00f8 r <s> <<\u00f6>> </s> <s> <<m>> </s>"
+            ],
+            [
+                "Hungarian-331-haken-9",
+                "Hungarian",
+                "331-haken",
+                "horog",
+                "<s> <<h>> </s> <s> <<o>> </s> <s> <<r>> </s> <s> <<o>> </s> <s> <<g>> </s>"
+            ],
+            [
+                "Hungarian-340-eimer-2",
+                "Hungarian",
+                "340-eimer",
+                "teher",
+                "t \u025b <s> <<h>> </s> <s> <<e>> </s> <s> <<r>> </s>"
+            ],
+            [
+                "Hungarian-35-ferse-2",
+                "Hungarian",
+                "35-ferse",
+                "sarok",
+                "<s> <<s>> </s> <s> <<a>> </s> <s> <<r>> </s> o k"
+            ],
+            [
+                "Hungarian-371-kleidung-7",
+                "Hungarian",
+                "371-kleidung",
+                "k\u00f6nny\u0171",
+                "k \u00f8 \u0272\u02d0 <s> <<\u0171>> </s>"
+            ],
+            [
+                "Hungarian-376-gurtel-3",
+                "Hungarian",
+                "376-gurtel",
+                "\u00f6v",
+                "<s> <<\u00f6>> </s> <s> <<v>> </s>"
+            ],
+            [
+                "Hungarian-376-gurtel-4",
+                "Hungarian",
+                "376-gurtel",
+                "\u00f6v",
+                "<s> <<\u00f6>> </s> <s> <<v>> </s>"
+            ],
+            [
+                "Hungarian-413-grab-1",
+                "Hungarian",
+                "413-grab",
+                "g\u00f6d\u00f6r",
+                "<s> <<g>> </s> <s> <<\u00f6>> </s> <s> <<d>> </s> <s> <<\u00f6>> </s> <s> <<r>> </s>"
+            ],
+            [
+                "Hungarian-413-grab-2",
+                "Hungarian",
+                "413-grab",
+                "kopors\u00f3",
+                "<s> <<k>> </s> <s> <<o>> </s> p o r <s> <<s>> </s> o\u02d0"
+            ],
+            [
+                "Hungarian-413-grab-3",
+                "Hungarian",
+                "413-grab",
+                "kopors\u00f3",
+                "<s> <<k>> </s> <s> <<o>> </s> p o r <s> <<s>> </s> o\u02d0"
+            ],
+            [
+                "Hungarian-446-schuld-1",
+                "Hungarian",
+                "446-schuld",
+                "teher",
+                "t \u025b <s> <<h>> </s> <s> <<e>> </s> <s> <<r>> </s>"
+            ],
+            [
+                "Hungarian-448-schluss-10",
+                "Hungarian",
+                "448-schluss",
+                "tet\u0151",
+                "t \u025b <s> <<t>> </s> \u00f8\u02d0"
+            ],
+            [
+                "Hungarian-46-herz-2",
+                "Hungarian",
+                "46-herz",
+                "l\u00e9lek",
+                "<s> <<l>> </s> e\u02d0 l <s> <<e>> </s> <s> <<k>> </s>"
+            ],
+            [
+                "Hungarian-46-herz-5",
+                "Hungarian",
+                "46-herz",
+                "kebel",
+                "<s> <<k>> </s> \u025b b \u025b l"
+            ],
+            [
+                "Hungarian-487-dicht-10",
+                "Hungarian",
+                "487-dicht",
+                "s\u0171r\u0171",
+                "<s> <<s>> </s> <s> <<\u0171>> </s> <s> <<r>> </s> <s> <<\u0171>> </s>"
+            ],
+            [
+                "Hungarian-487-dicht-3",
+                "Hungarian",
+                "487-dicht",
+                "s\u0171r\u0171",
+                "<s> <<s>> </s> <s> <<\u0171>> </s> <s> <<r>> </s> <s> <<\u0171>> </s>"
+            ],
+            [
+                "Hungarian-49-atem-2",
+                "Hungarian",
+                "49-atem",
+                "l\u00e9lek",
+                "<s> <<l>> </s> e\u02d0 l <s> <<e>> </s> <s> <<k>> </s>"
+            ],
+            [
+                "Hungarian-49-atem-3",
+                "Hungarian",
+                "49-atem",
+                "l\u00e9lek",
+                "<s> <<l>> </s> e\u02d0 l <s> <<e>> </s> <s> <<k>> </s>"
+            ],
+            [
+                "Hungarian-490-fein-6",
+                "Hungarian",
+                "490-fein",
+                "k\u00f6nny\u0171",
+                "k \u00f8 \u0272\u02d0 <s> <<\u0171>> </s>"
+            ],
+            [
+                "Hungarian-500-schwer-4",
+                "Hungarian",
+                "500-schwer",
+                "teher",
+                "t \u025b <s> <<h>> </s> <s> <<e>> </s> <s> <<r>> </s>"
+            ],
+            [
+                "Hungarian-511-leer-4",
+                "Hungarian",
+                "511-leer",
+                "hi\u00fa",
+                "<s> <<h>> </s> <s> <<i>> </s> <s> <<\u00fa>> </s>"
+            ],
+            [
+                "Hungarian-523-dunkel-1",
+                "Hungarian",
+                "523-dunkel",
+                "korom",
+                "k o r <s> <<o>> </s> <s> <<m>> </s>"
+            ],
+            [
+                "Hungarian-524-schwarz-2",
+                "Hungarian",
+                "524-schwarz",
+                "korom",
+                "k o r <s> <<o>> </s> <s> <<m>> </s>"
+            ],
+            [
+                "Hungarian-540-fett-6",
+                "Hungarian",
+                "540-fett",
+                "s\u0171r\u0171",
+                "<s> <<s>> </s> <s> <<\u0171>> </s> <s> <<r>> </s> <s> <<\u0171>> </s>"
+            ],
+            [
+                "Hungarian-543-bose-7",
+                "Hungarian",
+                "543-bose",
+                "pokol",
+                "<s> <<p>> </s> o k <s> <<o>> </s> <s> <<l>> </s>"
+            ],
+            [
+                "Hungarian-549-geschickt-2",
+                "Hungarian",
+                "549-geschickt",
+                "k\u00f6nny\u0171",
+                "k \u00f8 \u0272\u02d0 <s> <<\u0171>> </s>"
+            ],
+            [
+                "Hungarian-549-geschickt-3",
+                "Hungarian",
+                "549-geschickt",
+                "k\u00f6nny\u0171",
+                "k \u00f8 \u0272\u02d0 <s> <<\u0171>> </s>"
+            ],
+            [
+                "Hungarian-55-traum-1",
+                "Hungarian",
+                "55-traum",
+                "\u00e1lom",
+                "a\u02d0 l <s> <<o>> </s> <s> <<m>> </s>"
+            ],
+            [
+                "Hungarian-552-sanft-4",
+                "Hungarian",
+                "552-sanft",
+                "k\u00f6nny\u0171",
+                "k \u00f8 \u0272\u02d0 <s> <<\u0171>> </s>"
+            ],
+            [
+                "Hungarian-558-gut-5",
+                "Hungarian",
+                "558-gut",
+                "j\u00f3",
+                "<s> <<j>> </s> o\u02d0"
+            ],
+            [
+                "Hungarian-559-schlecht-5",
+                "Hungarian",
+                "559-schlecht",
+                "pokol",
+                "<s> <<p>> </s> o k <s> <<o>> </s> <s> <<l>> </s>"
+            ],
+            [
+                "Hungarian-586-lange-1",
+                "Hungarian",
+                "586-lange",
+                "hossz\u00fa",
+                "<s> <<h>> </s> <s> <<o>> </s> <s> <<s>> </s> <s> <<s>> </s> <s> <<z>> </s> <s> <<\u00fa>> </s>"
+            ],
+            [
+                "Hungarian-639-alles-2",
+                "Hungarian",
+                "639-alles",
+                "monn\u00f3",
+                "<s> <<m>> </s> <s> <<o>> </s> n n o\u02d0"
+            ],
+            [
+                "Hungarian-65-boden-8",
+                "Hungarian",
+                "65-boden",
+                "telek",
+                "t \u025b l \u025b <s> <<k>> </s>"
+            ],
+            [
+                "Hungarian-681-werden-5",
+                "Hungarian",
+                "681-werden",
+                "lesz",
+                "l \u025b <s> <<s>> </s> <s> <<z>> </s>"
+            ],
+            [
+                "Hungarian-682-passieren-2",
+                "Hungarian",
+                "682-passieren",
+                "lesz",
+                "l \u025b <s> <<s>> </s> <s> <<z>> </s>"
+            ],
+            [
+                "Hungarian-707-reien-4",
+                "Hungarian",
+                "707-reien",
+                "ny\u0171",
+                "n <s> <<y>> </s> <s> <<\u0171>> </s>"
+            ],
+            [
+                "Hungarian-728-blasen-4",
+                "Hungarian",
+                "728-blasen",
+                "ihel",
+                "<s> <<i>> </s> <s> <<h>> </s> \u025b l"
+            ],
+            [
+                "Hungarian-734-geborenwerden-1",
+                "Hungarian",
+                "734-geborenwerden",
+                "lesz",
+                "l \u025b <s> <<s>> </s> <s> <<z>> </s>"
+            ],
+            [
+                "Hungarian-735-atmen-1",
+                "Hungarian",
+                "735-atmen",
+                "ihel",
+                "<s> <<i>> </s> <s> <<h>> </s> \u025b l"
+            ],
+            [
+                "Hungarian-735-atmen-2",
+                "Hungarian",
+                "735-atmen",
+                "l\u00e9legzik",
+                "<s> <<l>> </s> e\u02d0 l <s> <<e>> </s> <s> <<g>> </s> <s> <<z>> </s> <s> <<i>> </s> <s> <<k>> </s>"
+            ],
+            [
+                "Hungarian-736-trinken-1",
+                "Hungarian",
+                "736-trinken",
+                "iszik",
+                "<s> <<i>> </s> s i k"
+            ],
+            [
+                "Hungarian-736-trinken-3",
+                "Hungarian",
+                "736-trinken",
+                "iszik",
+                "<s> <<i>> </s> s i k"
+            ],
+            [
+                "Hungarian-736-trinken-4",
+                "Hungarian",
+                "736-trinken",
+                "iszik",
+                "<s> <<i>> </s> s i k"
+            ],
+            [
+                "Hungarian-740-einschlafen-1",
+                "Hungarian",
+                "740-einschlafen",
+                "\u00e1lom",
+                "a\u02d0 l <s> <<o>> </s> <s> <<m>> </s>"
+            ],
+            [
+                "Hungarian-750-sterben-5",
+                "Hungarian",
+                "750-sterben",
+                "nyugszik",
+                "n <s> <<y>> </s> <s> <<u>> </s> <s> <<g>> </s> s i k"
+            ],
+            [
+                "Hungarian-753-sichruhren-2",
+                "Hungarian",
+                "753-sichruhren",
+                "mozog",
+                "<s> <<m>> </s> <s> <<o>> </s> <s> <<z>> </s> <s> <<o>> </s> <s> <<g>> </s>"
+            ],
+            [
+                "Hungarian-760-eilen-2",
+                "Hungarian",
+                "760-eilen",
+                "igyekezik",
+                "i \u025f \u025b k \u025b <s> <<z>> </s> <s> <<i>> </s> <s> <<k>> </s>"
+            ],
+            [
+                "Hungarian-760-eilen-3",
+                "Hungarian",
+                "760-eilen",
+                "iparkodik",
+                "i p <s> <<a>> </s> <s> <<r>> </s> <s> <<k>> </s> <s> <<o>> </s> <s> <<d>> </s> <s> <<i>> </s> <s> <<k>> </s>"
+            ],
+            [
+                "Hungarian-760-eilen-8",
+                "Hungarian",
+                "760-eilen",
+                "s\u00fcr\u00f6g",
+                "<s> <<s>> </s> <s> <<\u00fc>> </s> r \u00f8 \u0261"
+            ],
+            [
+                "Hungarian-779-kommen-1",
+                "Hungarian",
+                "779-kommen",
+                "g\u00e1zol",
+                "\u0261 a\u02d0 z <s> <<o>> </s> <s> <<l>> </s>"
+            ],
+            [
+                "Hungarian-779-kommen-2",
+                "Hungarian",
+                "779-kommen",
+                "j\u00f6n",
+                "<s> <<j>> </s> \u00f8 n"
+            ],
+            [
+                "Hungarian-779-kommen-4",
+                "Hungarian",
+                "779-kommen",
+                "j\u00f6n",
+                "<s> <<j>> </s> \u00f8 n"
+            ],
+            [
+                "Hungarian-780-ankommen-2",
+                "Hungarian",
+                "780-ankommen",
+                "j\u00f6n",
+                "<s> <<j>> </s> \u00f8 n"
+            ],
+            [
+                "Hungarian-780-ankommen-8",
+                "Hungarian",
+                "780-ankommen",
+                "j\u00f6n",
+                "<s> <<j>> </s> \u00f8 n"
+            ],
+            [
+                "Hungarian-798-fliehen-3",
+                "Hungarian",
+                "798-fliehen",
+                "menekedik",
+                "<s> <<m>> </s> <s> <<e>> </s> n \u025b k \u025b <s> <<d>> </s> <s> <<i>> </s> <s> <<k>> </s>"
+            ],
+            [
+                "Hungarian-81-hitze-1",
+                "Hungarian",
+                "81-hitze",
+                "h\u0151",
+                "<s> <<h>> </s> \u00f8\u02d0"
+            ],
+            [
+                "Hungarian-812-tun-7",
+                "Hungarian",
+                "812-tun",
+                "pepecsel",
+                "<s> <<p>> </s> \u025b p \u025b <s> <<c>> </s> <s> <<s>> </s> \u025b l"
+            ],
+            [
+                "Hungarian-840-graben-4",
+                "Hungarian",
+                "840-graben",
+                "kotor",
+                "<s> <<k>> </s> <s> <<o>> </s> <s> <<t>> </s> <s> <<o>> </s> <s> <<r>> </s>"
+            ],
+            [
+                "Hungarian-842-biegen-3",
+                "Hungarian",
+                "842-biegen",
+                "horog",
+                "<s> <<h>> </s> <s> <<o>> </s> <s> <<r>> </s> <s> <<o>> </s> <s> <<g>> </s>"
+            ],
+            [
+                "Hungarian-871-fullen-3",
+                "Hungarian",
+                "871-fullen",
+                "torol",
+                "<s> <<t>> </s> <s> <<o>> </s> <s> <<r>> </s> <s> <<o>> </s> <s> <<l>> </s>"
+            ],
+            [
+                "Hungarian-88-schmutz-6",
+                "Hungarian",
+                "88-schmutz",
+                "mocsok",
+                "<s> <<m>> </s> <s> <<o>> </s> <s> <<c>> </s> \u0283 o k"
+            ],
+            [
+                "Hungarian-88-schmutz-7",
+                "Hungarian",
+                "88-schmutz",
+                "piszok",
+                "<s> <<p>> </s> <s> <<i>> </s> <s> <<s>> </s> z o k"
+            ],
+            [
+                "Hungarian-884-hinzufugen-5",
+                "Hungarian",
+                "884-hinzufugen",
+                "p\u00f3tol",
+                "<s> <<p>> </s> o\u02d0 t o l"
+            ],
+            [
+                "Hungarian-884-hinzufugen-7",
+                "Hungarian",
+                "884-hinzufugen",
+                "tesz",
+                "t \u025b <s> <<s>> </s> <s> <<z>> </s>"
+            ],
+            [
+                "Hungarian-893-beschadigen-2",
+                "Hungarian",
+                "893-beschadigen",
+                "mezger\u00e9l",
+                "m \u025b z <s> <<g>> </s> <s> <<e>> </s> <s> <<r>> </s> e\u02d0 l"
+            ],
+            [
+                "Hungarian-896-zerstoren-4",
+                "Hungarian",
+                "896-zerstoren",
+                "t\u00e9kozol",
+                "<s> <<t>> </s> <s> <<\u00e9>> </s> <s> <<k>> </s> <s> <<o>> </s> <s> <<z>> </s> <s> <<o>> </s> <s> <<l>> </s>"
+            ],
+            [
+                "Hungarian-923-tanzen-10",
+                "Hungarian",
+                "923-tanzen",
+                "toboroz",
+                "<s> <<t>> </s> <s> <<o>> </s> <s> <<b>> </s> o r o z"
+            ],
+            [
+                "Hungarian-923-tanzen-8",
+                "Hungarian",
+                "923-tanzen",
+                "s\u00fcr\u00f6g",
+                "<s> <<s>> </s> <s> <<\u00fc>> </s> r \u00f8 \u0261"
+            ],
+            [
+                "Hungarian-940-belastigen-1",
+                "Hungarian",
+                "940-belastigen",
+                "abajgat",
+                "<s> <<a>> </s> b \u0252 j <s> <<g>> </s> <s> <<a>> </s> <s> <<t>> </s>"
+            ],
+            [
+                "Hungarian-940-belastigen-13",
+                "Hungarian",
+                "940-belastigen",
+                "teher",
+                "t \u025b <s> <<h>> </s> <s> <<e>> </s> <s> <<r>> </s>"
+            ],
+            [
+                "Hungarian-950-fischen-2",
+                "Hungarian",
+                "950-fischen",
+                "horog",
+                "<s> <<h>> </s> <s> <<o>> </s> <s> <<r>> </s> <s> <<o>> </s> <s> <<g>> </s>"
+            ],
+            [
+                "Hungarian-957-hacken-1",
+                "Hungarian",
+                "957-hacken",
+                "horol",
+                "<s> <<h>> </s> <s> <<o>> </s> <s> <<r>> </s> <s> <<o>> </s> <s> <<l>> </s>"
+            ],
+            [
+                "Hungarian-98-hohle-7",
+                "Hungarian",
+                "98-hohle",
+                "pokol",
+                "<s> <<p>> </s> o k <s> <<o>> </s> <s> <<l>> </s>"
+            ],
+            [
+                "Hungarian-984-sichunterhalten-1",
+                "Hungarian",
+                "984-sichunterhalten",
+                "abajog",
+                "<s> <<a>> </s> b \u0252 j <s> <<o>> </s> <s> <<g>> </s>"
+            ],
+            [
+                "Hungarian-984-sichunterhalten-11",
+                "Hungarian",
+                "984-sichunterhalten",
+                "tr\u00e9csel",
+                "<s> <<t>> </s> <s> <<r>> </s> <s> <<\u00e9>> </s> <s> <<c>> </s> <s> <<s>> </s> \u025b l"
+            ],
+            [
+                "Hungarian-989-nennen-4",
+                "Hungarian",
+                "989-nennen",
+                "h\u00edv",
+                "<s> <<h>> </s> <s> <<\u00ed>> </s> <s> <<v>> </s>"
+            ],
+            [
+                "Hungarian-990-rufen-1",
+                "Hungarian",
+                "990-rufen",
+                "h\u00edv",
+                "<s> <<h>> </s> <s> <<\u00ed>> </s> <s> <<v>> </s>"
+            ],
+            [
+                "Hungarian-990-rufen-4",
+                "Hungarian",
+                "990-rufen",
+                "h\u00edv",
+                "<s> <<h>> </s> <s> <<\u00ed>> </s> <s> <<v>> </s>"
+            ],
+            [
+                "Hungarian-991-prahlen-6",
+                "Hungarian",
+                "991-prahlen",
+                "k\u00e9rkedik",
+                "k e\u02d0 r <s> <<k>> </s> \u025b d <s> <<i>> </s> <s> <<k>> </s>"
+            ]
+        ],
+        "bad_words_count": 212,
+        "bipa_errors": [
+            "<<j>>",
+            "<<\u00e9>>",
+            "<<\u00fa>>",
+            "<<l>>",
+            "<<\u0171>>",
+            "<<v>>",
+            "<<b>>",
+            "<<d>>",
+            "<<m>>",
+            "<<i>>",
+            "<<r>>",
+            "<<k>>",
+            "<<t>>",
+            "<<\u00e1>>",
+            "<<z>>",
+            "<<o>>",
+            "<<s>>",
+            "<<e>>",
+            "<<g>>",
+            "<<p>>",
+            "<<u>>",
+            "<<h>>",
+            "<<c>>",
+            "<<\u00fc>>",
+            "<<\u00f6>>",
+            "<<a>>",
+            "<<f>>",
+            "<<y>>",
+            "<<\u00ed>>"
+        ],
+        "general_errors": 543,
+        "invalid_words": [],
+        "invalid_words_count": 0,
+        "inventory_size": 87.0,
+        "replacements": {
+            "a\u02d0": [
+                "a\u02d0"
+            ],
+            "b": [
+                "b"
+            ],
+            "b\u02d0": [
+                "b\u02d0"
+            ],
+            "c": [
+                "c"
+            ],
+            "c\u02d0": [
+                "c\u02d0"
+            ],
+            "d": [
+                "d"
+            ],
+            "d\u02d0": [
+                "d\u02d0"
+            ],
+            "d\u0361z": [
+                "dz"
+            ],
+            "d\u0361\u0292": [
+                "d\u0292"
+            ],
+            "e\u02d0": [
+                "e\u02d0"
+            ],
+            "f": [
+                "f"
+            ],
+            "f\u02d0": [
+                "f\u02d0"
+            ],
+            "h": [
+                "h"
+            ],
+            "i": [
+                "i"
+            ],
+            "i\u02d0": [
+                "i\u02d0"
+            ],
+            "j": [
+                "j"
+            ],
+            "j\u02d0": [
+                "j\u02d0"
+            ],
+            "k": [
+                "k"
+            ],
+            "k\u02d0": [
+                "k\u02d0"
+            ],
+            "l": [
+                "l"
+            ],
+            "l\u02d0": [
+                "l\u02d0"
+            ],
+            "m": [
+                "m"
+            ],
+            "m\u02d0": [
+                "m\u02d0"
+            ],
+            "n": [
+                "n"
+            ],
+            "n\u02d0": [
+                "n\u02d0"
+            ],
+            "o": [
+                "o"
+            ],
+            "o\u02d0": [
+                "o\u02d0"
+            ],
+            "p": [
+                "p"
+            ],
+            "p\u02d0": [
+                "p\u02d0"
+            ],
+            "r": [
+                "r"
+            ],
+            "r\u02d0": [
+                "r\u02d0"
+            ],
+            "s": [
+                "s"
+            ],
+            "s\u02d0": [
+                "s\u02d0"
+            ],
+            "t": [
+                "t"
+            ],
+            "t\u02d0": [
+                "t\u02d0"
+            ],
+            "t\u0361s": [
+                "ts"
+            ],
+            "t\u0361s\u02d0": [
+                "ts\u02d0"
+            ],
+            "t\u0361\u0283": [
+                "t\u0283"
+            ],
+            "u": [
+                "u"
+            ],
+            "u\u02d0": [
+                "u\u02d0"
+            ],
+            "v": [
+                "v"
+            ],
+            "y": [
+                "y"
+            ],
+            "y\u02d0": [
+                "y\u02d0"
+            ],
+            "z": [
+                "z"
+            ],
+            "z\u02d0": [
+                "z\u02d0"
+            ],
+            "\u00f8": [
+                "\u00f8"
+            ],
+            "\u00f8\u02d0": [
+                "\u00f8\u02d0"
+            ],
+            "\u0252": [
+                "\u0252"
+            ],
+            "\u025b": [
+                "\u025b"
+            ],
+            "\u025f": [
+                "\u025f"
+            ],
+            "\u025f\u02d0": [
+                "\u025f\u02d0"
+            ],
+            "\u0261": [
+                "g"
+            ],
+            "\u0261\u02d0": [
+                "g\u02d0"
+            ],
+            "\u0272": [
+                "\u0272"
+            ],
+            "\u0272\u02d0": [
+                "\u0272\u02d0"
+            ],
+            "\u0283": [
+                "\u0283"
+            ],
+            "\u0283\u02d0": [
+                "\u0283\u02d0"
+            ],
+            "\u0292": [
+                "\u0292"
+            ]
+        },
+        "sclass_errors": [
+            "<<j>>",
+            "<<\u00e9>>",
+            "<<\u00fa>>",
+            "<<l>>",
+            "<<\u0171>>",
+            "<<v>>",
+            "<<b>>",
+            "<<d>>",
+            "<<m>>",
+            "<<i>>",
+            "<<r>>",
+            "<<k>>",
+            "<<t>>",
+            "<<\u00e1>>",
+            "<<z>>",
+            "<<o>>",
+            "<<s>>",
+            "<<e>>",
+            "<<g>>",
+            "<<p>>",
+            "<<u>>",
+            "<<h>>",
+            "<<c>>",
+            "<<\u00fc>>",
+            "<<\u00f6>>",
+            "<<a>>",
+            "<<f>>",
+            "<<y>>",
+            "<<\u00ed>>"
+        ],
+        "segments": {
+            "<<a>>": 18,
+            "<<b>>": 5,
+            "<<c>>": 3,
+            "<<d>>": 7,
+            "<<e>>": 19,
+            "<<f>>": 2,
+            "<<g>>": 25,
+            "<<h>>": 28,
+            "<<i>>": 24,
+            "<<j>>": 11,
+            "<<k>>": 37,
+            "<<l>>": 34,
+            "<<m>>": 22,
+            "<<o>>": 64,
+            "<<p>>": 15,
+            "<<r>>": 37,
+            "<<s>>": 48,
+            "<<t>>": 29,
+            "<<u>>": 8,
+            "<<v>>": 11,
+            "<<y>>": 16,
+            "<<z>>": 16,
+            "<<\u00e1>>": 1,
+            "<<\u00e9>>": 5,
+            "<<\u00ed>>": 5,
+            "<<\u00f6>>": 18,
+            "<<\u00fa>>": 11,
+            "<<\u00fc>>": 3,
+            "<<\u0171>>": 21,
+            "a\u02d0": 632,
+            "b": 391,
+            "b\u02d0": 6,
+            "c": 46,
+            "c\u02d0": 8,
+            "d": 464,
+            "d\u02d0": 2,
+            "d\u0361z": 3,
+            "d\u0361\u0292": 2,
+            "e\u02d0": 501,
+            "f": 293,
+            "f\u02d0": 1,
+            "h": 347,
+            "i": 695,
+            "i\u02d0": 150,
+            "j": 301,
+            "j\u02d0": 6,
+            "k": 1078,
+            "k\u02d0": 15,
+            "l": 1021,
+            "l\u02d0": 88,
+            "m": 509,
+            "m\u02d0": 3,
+            "n": 602,
+            "n\u02d0": 15,
+            "o": 939,
+            "o\u02d0": 230,
+            "p": 414,
+            "p\u02d0": 16,
+            "r": 1191,
+            "r\u02d0": 13,
+            "s": 513,
+            "s\u02d0": 24,
+            "t": 1105,
+            "t\u02d0": 27,
+            "t\u0361s": 144,
+            "t\u0361s\u02d0": 5,
+            "t\u0361\u0283": 240,
+            "u": 334,
+            "u\u02d0": 116,
+            "v": 390,
+            "y": 107,
+            "y\u02d0": 48,
+            "z": 260,
+            "z\u02d0": 4,
+            "\u00f8": 322,
+            "\u00f8\u02d0": 116,
+            "\u0252": 1635,
+            "\u025b": 1464,
+            "\u025f": 166,
+            "\u025f\u02d0": 1,
+            "\u0261": 565,
+            "\u0261\u02d0": 7,
+            "\u0272": 223,
+            "\u0272\u02d0": 14,
+            "\u0283": 507,
+            "\u0283\u02d0": 3,
+            "\u0292": 25
+        }
+    }
+}

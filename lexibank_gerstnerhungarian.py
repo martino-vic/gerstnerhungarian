@@ -70,9 +70,9 @@ class Dataset(BaseDataset):
             ## add languages
             for language in self.languages:
                 writer.add_language(
-                        ID="Gothic",
-                        Name="Gothic",
-                        Glottocode="goth1244"
+                        ID="Hungarian",
+                        Name="Hungarian",
+                        Glottocode="hung1274"
                         )
             args.log.info("added languages")
 

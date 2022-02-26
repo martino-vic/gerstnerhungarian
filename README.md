@@ -23,15 +23,21 @@ Conceptlists in Concepticon:
 
 
 [![CLDF validation](https://github.com/martino-vic/gerstnerhungarian/workflows/CLDF-validation/badge.svg)](https://github.com/martino-vic/gerstnerhungarian/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 0%](https://img.shields.io/badge/Glottolog-0%25-red.svg "Glottolog: 0%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
+![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 67%](https://img.shields.io/badge/BIPA-67%25-orange.svg "BIPA: 67%")
+![CLTS SoundClass: 67%](https://img.shields.io/badge/CLTS%20SoundClass-67%25-orange.svg "CLTS SoundClass: 67%")
 
-- **Varieties:** 0
-- **Concepts:** 0
-- **Lexemes:** 0
-- **Sources:** 0
-- **Synonymy:** 0.00
+- **Varieties:** 1
+- **Concepts:** 888
+- **Lexemes:** 4,034
+- **Sources:** 1
+- **Synonymy:** 4.54
+- **Invalid lexemes:** 0
+- **Tokens:** 18,890
+- **Segments:** 87 (29 BIPA errors, 29 CTLS sound class errors, 58 CLTS modified)
+- **Inventory size (avg):** 87.00
 
 ## CLDF Datasets
 
