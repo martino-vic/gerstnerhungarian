@@ -30,14 +30,14 @@ Conceptlists in Concepticon:
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 1
-- **Concepts:** 869
-- **Lexemes:** 1,539
+- **Concepts:** 785
+- **Lexemes:** 1,047
 - **Sources:** 1
-- **Synonymy:** 1.77
+- **Synonymy:** 1.33
 - **Invalid lexemes:** 0
-- **Tokens:** 6,825
-- **Segments:** 53 (0 BIPA errors, 0 CTLS sound class errors, 53 CLTS modified)
-- **Inventory size (avg):** 53.00
+- **Tokens:** 4,627
+- **Segments:** 54 (0 BIPA errors, 0 CTLS sound class errors, 54 CLTS modified)
+- **Inventory size (avg):** 54.00
 
 ## CLDF Datasets
 
