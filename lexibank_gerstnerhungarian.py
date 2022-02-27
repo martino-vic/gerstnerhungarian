@@ -110,7 +110,7 @@ class Dataset(BaseDataset):
                 "EntryTable",
                 {"name": "Year", "datatype": "integer"},
                 {"name": "Etymology", "datatype": "string"},
-                {"name": "Loan", "datatype": "boolean"}
+                {"name": "Loan", "datatype": "string"}
             )
 
             for sense, values in senses.items():
@@ -128,7 +128,7 @@ class Dataset(BaseDataset):
                     "Headword": row["form"],
                     "Year": row["year"],
                     "Etymology": row["origin"],
-                    "Loan": True if row["Loan"] == "True" else False
+                    "Loan": row["Loan"]
                     })
 
             #for idx, row in enumerate(self.raw_dir.read_csv(
