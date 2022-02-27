@@ -118,7 +118,10 @@ class Dataset(BaseDataset):
                 writer.objects["EntryTable"].append({
                     "ID": fidx,
                     "Language_ID": "Hungarian",
-                    "Headword": row["form"]
+                    "Headword": row["form"],
+                    "Year": row["year"],
+                    "Etymology": row["origin"],
+                    "Loan": row["Loan"]
                     })
 
             #for idx, row in enumerate(self.raw_dir.read_csv(
