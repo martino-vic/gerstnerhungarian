@@ -128,7 +128,7 @@ class Dataset(BaseDataset):
                     "Headword": row["form"],
                     "Year": row["year"],
                     "Etymology": row["origin"],
-                    "Loan": row["Loan"]
+                    "Loan": True if row["Loan"] == "True" else False
                     })
 
             #for idx, row in enumerate(self.raw_dir.read_csv(

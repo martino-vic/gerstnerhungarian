@@ -11,7 +11,7 @@ greenlet==1.1.2
 idna==3.3
 iniconfig==1.1.1
 isodate==0.6.1
--e git+https://github.com/martino-vic/gerstnerhungarian.git@56b53fdc14e56f87927104575dd59f38a9d73635#egg=lexibank_gerstnerhungarian
+-e git+https://github.com/martino-vic/gerstnerhungarian.git@bc5defa53ded199a2f64b489a6e5ead40ffb8961#egg=lexibank_gerstnerhungarian
 lingpy==2.6.9
 Markdown==3.3.6
 networkx==2.6.3
