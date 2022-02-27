@@ -23,7 +23,7 @@
         {
             "rdf:about": "https://github.com/martino-vic/gerstnerhungarian",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.3-9-g434789f",
+            "dc:created": "v1.3-10-g56b53fd",
             "dc:title": "Repository"
         },
         {
@@ -94,6 +94,18 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#partOfSpeech",
                         "required": false,
                         "name": "Part_Of_Speech"
+                    },
+                    {
+                        "datatype": "integer",
+                        "name": "Year"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Etymology"
+                    },
+                    {
+                        "datatype": "boolean",
+                        "name": "Loan"
                     }
                 ],
                 "foreignKeys": [

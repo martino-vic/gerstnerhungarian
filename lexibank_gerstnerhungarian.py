@@ -106,6 +106,13 @@ class Dataset(BaseDataset):
             # we use the same language table for the data
             writer.cldf.add_component(language_table)
 
+            writer.cldf.add_columns(
+                "EntryTable",
+                {"name": "Year", "datatype": "integer"},
+                {"name": "Etymology", "datatype": "string"},
+                {"name": "Loan", "datatype": "boolean"}
+            )
+
             for sense, values in senses.items():
                 for i, (fidx, sense_desc) in enumerate(values):
                     writer.objects["SenseTable"].append({
