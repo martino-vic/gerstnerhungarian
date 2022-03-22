@@ -1,4 +1,4 @@
-# CLDF dataset derived from a preprint of 'Új magyar etimológiai szótár' [New Hungarian Etymological Dictionary] by Gerstner Károly
+# CLDF dataset derived from a preprint of 'Új magyar etimológiai szótár' [New Hungarian Etymological Dictionary] by Károly Gerstner (ed.)
 
 ## How to cite
 
@@ -9,8 +9,6 @@ If you use these data please cite
 
 ## Description
 
-
-Full version in private repository, available upon request.
 
 This dataset is licensed under a MIT license
 
