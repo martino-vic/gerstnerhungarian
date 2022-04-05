@@ -12,7 +12,7 @@ def main():
 
     # define in and output paths and name of the output column
     in_path1 = Path.cwd().parent.parent / "cldf" / "forms.csv"
-    in_path2 = Path.cwd().parent.parent.parent / "ronatasbertawot" / "etc" / "soundchanges.txt"
+    in_path2 = Path.cwd().parent.parent.parent / "ronatasbertawot" / "etc" / "soundchangesH_EAH.txt"
     out_path = in_path1
     outcolname = "rc"
 
