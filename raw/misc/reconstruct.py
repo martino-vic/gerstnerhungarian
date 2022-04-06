@@ -1,4 +1,4 @@
-"""cd to folder `misc` and run `python reconstruct.py` from terminal"""
+"""cd to folder `misc` and run `python3.9 -m reconstruct` from terminal"""
 
 from pathlib import Path
 import re
@@ -20,7 +20,7 @@ def main():
     dfforms = pd.read_csv(in_path1)
     #add new column of backward-reconstructions with loanpy
     Sc = adrc.Adrc(scdict=in_path2)
-    dfforms[outcolname] = [Sc.reconstruct(i.replace(" ", ""), fp=10)
+    dfforms[outcolname] = [Sc.reconstruct(i.replace(" ", ""), fp=100)
                            for i in dfforms["Segments"]]
     #write new file
     dfforms.to_csv(out_path, encoding="utf-8", index=False)
